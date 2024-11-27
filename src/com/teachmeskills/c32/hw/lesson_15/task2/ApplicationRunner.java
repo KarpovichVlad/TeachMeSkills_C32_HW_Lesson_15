@@ -1,6 +1,6 @@
 package com.teachmeskills.c32.hw.lesson_15.task2;
 
-import com.teachmeskills.c32.hw.lesson_15.task2.Shape.Shape;
+import com.teachmeskills.c32.hw.lesson_15.task2.shape.Shape;
 import com.teachmeskills.c32.hw.lesson_15.task2.figur.circle.Circle;
 import com.teachmeskills.c32.hw.lesson_15.task2.figur.rectangle.Rectangle;
 import com.teachmeskills.c32.hw.lesson_15.task2.figur.triangle.Triangle;

@@ -1,6 +1,6 @@
 package com.teachmeskills.c32.hw.lesson_15.task2.figur.triangle;
 
-import com.teachmeskills.c32.hw.lesson_15.task2.Shape.Shape;
+import com.teachmeskills.c32.hw.lesson_15.task2.shape.Shape;
 
 public class Triangle implements Shape {
 
